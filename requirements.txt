@@ -1,0 +1,2 @@
+﻿fastapi[all]
+gunicorn==21.2.0.
